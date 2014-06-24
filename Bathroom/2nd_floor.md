@@ -7,8 +7,8 @@
 #Wall Tile
 [X] find 3 tile stores in the Cleveland area
 
-[ ] select tile for wall and determine 
+[X] select tile for wall and determine 
 
-[ ] hire tiler
+[X] hire tiler
 
 #Floor Tile
